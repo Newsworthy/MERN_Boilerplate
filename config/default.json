@@ -1,4 +1,7 @@
 {
-  "mongoURI": "mongodb+srv://fcc:eWrpkoU3DQ5OdzV1@cluster0.gzbsh.mongodb.net/mern_shopping?retryWrites=true&w=majority",
-  "jwtSecret": "thissecretisreallytough"
+
+  "mongoURI": //Enter your mongoURI here within inverted commas
+  "jwtSecret": //Enter a secret for JWT to use for authentication
 }
+
+"mongodb+srv://fcc:eWrpkoU3DQ5OdzV1@cluster0.gzbsh.mongodb.net/mern_shopping?retryWrites=true&w=majority",

@@ -1,7 +1,7 @@
 {
-  "name": "mern_shopping_list",
+  "name": "MERN_Boilerplate",
   "version": "1.0.0",
-  "description": "Shopping List",
+  "description": "A basic MERN stack boilerplate app with basic JWT authentication, Bootstrap for react, and basic item functionality",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
